@@ -1,0 +1,4 @@
+1BDR_clean
+spacing    0.375
+npts       40 40 40
+center    -9.825 17.238 28.036
